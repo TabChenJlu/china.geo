@@ -61,7 +61,7 @@
 			"type": "Feature",
 			"id": "si_chuan",
 			"properties": {
-				"name": "四川",
+				"name": "四川省",
 				"cp": [102.9199, 30.1904],
 				"childNum": 21
 			},
@@ -75,7 +75,7 @@
 			"type": "Feature",
 			"id": "hei_long_jiang",
 			"properties": {
-				"name": "黑龙江",
+				"name": "黑龙江省",
 				"cp": [128.1445, 48.5156],
 				"childNum": 13
 			},
@@ -89,7 +89,7 @@
 			"type": "Feature",
 			"id": "gan_su",
 			"properties": {
-				"name": "甘肃",
+				"name": "甘肃省",
 				"cp": [95.7129, 40.166],
 				"childNum": 14
 			},
@@ -103,7 +103,7 @@
 			"type": "Feature",
 			"id": "yun_nan",
 			"properties": {
-				"name": "云南",
+				"name": "云南省",
 				"cp": [101.8652, 25.1807],
 				"childNum": 16
 			},
@@ -131,7 +131,7 @@
 			"type": "Feature",
 			"id": "hu_nan",
 			"properties": {
-				"name": "湖南",
+				"name": "湖南省",
 				"cp": [111.5332, 27.3779],
 				"childNum": 14
 			},
@@ -145,7 +145,7 @@
 			"type": "Feature",
 			"id": "shan_xi_1",
 			"properties": {
-				"name": "陕西",
+				"name": "陕西省",
 				"cp": [109.5996, 35.6396],
 				"childNum": 10
 			},
@@ -159,7 +159,7 @@
 			"type": "Feature",
 			"id": "guang_dong",
 			"properties": {
-				"name": "广东",
+				"name": "广东省",
 				"cp": [113.4668, 22.8076],
 				"childNum": 21
 			},
@@ -174,7 +174,7 @@
 			"type": "Feature",
 			"id": "ji_lin",
 			"properties": {
-				"name": "吉林",
+				"name": "吉林省",
 				"cp": [126.4746, 43.5938],
 				"childNum": 9
 			},
@@ -188,7 +188,7 @@
 			"type": "Feature",
 			"id": "he_bei",
 			"properties": {
-				"name": "河北",
+				"name": "河北省",
 				"cp": [115.4004, 37.9688],
 				"childNum": 11
 			},
@@ -205,7 +205,7 @@
 			"type": "Feature",
 			"id": "hu_bei",
 			"properties": {
-				"name": "湖北",
+				"name": "湖北省",
 				"cp": [112.2363, 31.1572],
 				"childNum": 17
 			},
@@ -219,7 +219,7 @@
 			"type": "Feature",
 			"id": "gui_zhou",
 			"properties": {
-				"name": "贵州",
+				"name": "贵州省",
 				"cp": [106.6113, 26.9385],
 				"childNum": 9
 			},
@@ -233,7 +233,7 @@
 			"type": "Feature",
 			"id": "shan_dong",
 			"properties": {
-				"name": "山东",
+				"name": "山东省",
 				"cp": [118.7402, 36.4307],
 				"childNum": 17
 			},
@@ -247,7 +247,7 @@
 			"type": "Feature",
 			"id": "jiang_xi",
 			"properties": {
-				"name": "江西",
+				"name": "江西省",
 				"cp": [116.0156, 27.29],
 				"childNum": 11
 			},
@@ -261,7 +261,7 @@
 			"type": "Feature",
 			"id": "he_nan",
 			"properties": {
-				"name": "河南",
+				"name": "河南省",
 				"cp": [113.4668, 33.8818],
 				"childNum": 17
 			},
@@ -275,7 +275,7 @@
 			"type": "Feature",
 			"id": "liao_ning",
 			"properties": {
-				"name": "辽宁",
+				"name": "辽宁省",
 				"cp": [122.3438, 41.0889],
 				"childNum": 14
 			},
@@ -289,7 +289,7 @@
 			"type": "Feature",
 			"id": "shan_xi_2",
 			"properties": {
-				"name": "山西",
+				"name": "山西省",
 				"cp": [112.4121, 37.6611],
 				"childNum": 11
 			},
@@ -303,7 +303,7 @@
 			"type": "Feature",
 			"id": "an_hui",
 			"properties": {
-				"name": "安徽",
+				"name": "安徽省",
 				"cp": [117.2461, 32.0361],
 				"childNum": 17
 			},
@@ -317,7 +317,7 @@
 			"type": "Feature",
 			"id": "fu_jian",
 			"properties": {
-				"name": "福建",
+				"name": "福建省",
 				"cp": [118.3008, 25.9277],
 				"childNum": 9
 			},
@@ -331,7 +331,7 @@
 			"type": "Feature",
 			"id": "zhe_jiang",
 			"properties": {
-				"name": "浙江",
+				"name": "浙江省",
 				"cp": [120.498, 29.0918],
 				"childNum": 11
 			},
@@ -345,7 +345,7 @@
 			"type": "Feature",
 			"id": "jiang_su",
 			"properties": {
-				"name": "江苏",
+				"name": "江苏省",
 				"cp": [120.0586, 32.915],
 				"childNum": 13
 			},
@@ -359,7 +359,7 @@
 			"type": "Feature",
 			"id": "chong_qing",
 			"properties": {
-				"name": "重庆",
+				"name": "重庆市",
 				"cp": [107.7539, 30.1904],
 				"childNum": 40
 			},
@@ -373,7 +373,7 @@
 			"type": "Feature",
 			"id": "ning_xia",
 			"properties": {
-				"name": "宁夏",
+				"name": "宁夏回族自治区",
 				"cp": [105.9961, 37.3096],
 				"childNum": 5
 			},
@@ -387,7 +387,7 @@
 			"type": "Feature",
 			"id": "hai_nan",
 			"properties": {
-				"name": "海南",
+				"name": "海南省",
 				"cp": [109.9512, 19.2041],
 				"childNum": 18
 			},
@@ -401,7 +401,7 @@
 			"type": "Feature",
 			"id": "tai_wan",
 			"properties": {
-				"name": "台湾",
+				"name": "台湾省",
 				"cp": [121.0254, 23.5986],
 				"childNum": 1
 			},
@@ -415,7 +415,7 @@
 			"type": "Feature",
 			"id": "bei_jing",
 			"properties": {
-				"name": "北京",
+				"name": "北京市",
 				"cp": [116.4551, 40.2539],
 				"childNum": 19
 			},
@@ -429,7 +429,7 @@
 			"type": "Feature",
 			"id": "tian_jin",
 			"properties": {
-				"name": "天津",
+				"name": "天津市",
 				"cp": [117.4219, 39.4189],
 				"childNum": 18
 			},
@@ -443,7 +443,7 @@
 			"type": "Feature",
 			"id": "shang_hai",
 			"properties": {
-				"name": "上海",
+				"name": "上海市",
 				"cp": [121.4648, 31.2891],
 				"childNum": 19
 			},
